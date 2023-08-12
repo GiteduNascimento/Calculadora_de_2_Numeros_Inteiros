@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "REVISÃO DE OPERADORES EM C#/1.0.0": {
+        "runtime": {
+          "REVISÃO DE OPERADORES EM C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REVISÃO DE OPERADORES EM C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
